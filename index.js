@@ -3,4 +3,4 @@ fetch("https://jsonplaceholder.typicode.com/users")
   .then(res => console.log(res.json()))
 
 
-  console.log('hello world')
+console.log('hello lkjhg')
